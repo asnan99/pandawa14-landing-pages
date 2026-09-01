@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+   <url>
+      <!-- GANTI DENGAN ALAMAT DOMAIN ASLI LANDING PAGE ANDA -->
+      <loc>https://pandawa14.com</loc>
+      
+      <!-- Tanggal terakhir kali Anda mengubah desain/isi halaman -->
+      <lastmod>2026-09-01</lastmod>
+      
+      <!-- Seberapa sering halaman ini diperbarui (yearly/monthly/always) -->
+      <changefreq>monthly</changefreq>
+      
+      <!-- Skala prioritas indeks (1.00 adalah nilai tertinggi untuk halaman utama) -->
+      <priority>1.00</priority>
+   </url>
+</urlset>

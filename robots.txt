@@ -1,0 +1,18 @@
+# Mengizinkan semua jenis robot mesin pencari (Google, Bing, dll) untuk masuk
+User-agent: *
+
+# Mengizinkan robot untuk membaca dan menjelajahi seluruh halaman website Anda
+Allow: /
+
+# Mengizinkan robot khusus Google Images untuk membaca folder gambar Anda agar banner muncul di Google
+User-agent: Googlebot-Image
+Allow: /image/
+
+# Cantumkan peta situs Anda jika ada (opsional, ganti dengan domain asli Anda)
+Sitemap: https://pandawa14.com
+
+User-agent: *
+Allow: /
+Allow: /images/
+
+Sitemap: https://pandawa14.com
